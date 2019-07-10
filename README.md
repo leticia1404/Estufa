@@ -1,2 +1,2 @@
-# Estufa
-Simula uma estufa
+# shiny-parakeet
+Example Spring consuming a REST
